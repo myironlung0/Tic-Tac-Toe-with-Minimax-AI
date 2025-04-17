@@ -12,3 +12,6 @@ The AI uses the Minimax algorithm to evaluate all possible moves and choose the 
 - Recursively explores all possible moves.
 - Uses depth to prefer faster wins/longer losses.
 
+Screenshots 
+![Gameplay](img/tictactoe_gameplay.png)
+![Tie](img/tictactoe_tie.png)
